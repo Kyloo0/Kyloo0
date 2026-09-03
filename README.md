@@ -31,31 +31,44 @@
 
 ### 💻 Software Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,dart,django,flutter,nestjs,postgres" />
+<p align="center">
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://en.cppreference.com/w/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://dart.dev/documentation"><img src="https://skillicons.dev/icons?i=dart" alt="Dart"/></a>
+  <a href="https://docs.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django"/></a>
+  <a href="https://docs.flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/></a>
+  <a href="https://docs.nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/></a>
+  <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
 </p>
 
 ### 🤖 Robotics & Autonomous Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ros,unity" />
+<p align="center">
+  <a href="https://docs.ros.org/"><img src="https://skillicons.dev/icons?i=ros" alt="ROS"/></a>
+  <a href="https://docs.unity3d.com/Manual/index.html"><img src="https://skillicons.dev/icons?i=unity" alt="Unity"/></a>
+  <a href="https://docs.px4.io/main/en/"><img src="https://img.shields.io/badge/PX4-Autopilot-333333?style=for-the-badge" alt="PX4 Autopilot"/></a>
+  <a href="https://gymnasium.farama.org/"><img src="https://img.shields.io/badge/Gymnasium-Farama-008000?style=for-the-badge" alt="Gymnasium"/></a>
 </p>
-
-<img src="https://img.shields.io/badge/PX4-Autopilot-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gymnasium-Farama-008000?style=for-the-badge" />
 
 ### ☁️ Cloud, Tools & Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux,docker" />
+<p align="center">
+  <a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP"/></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://www.kernel.org/doc/html/latest/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
 </p>
 
 ### 🧠 AI & Data
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge" />
+<p align="center">
+  <a href="https://www.tensorflow.org/learn"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/></a>
+  <a href="https://docs.opencv.org/"><img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision"/></a>
+  <a href="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge" alt="Data Science"/></a>
 </p>
 
 ---
@@ -67,15 +80,6 @@
 - Cloud Computing
 - Artificial Intelligence
 - Machine Learning
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
